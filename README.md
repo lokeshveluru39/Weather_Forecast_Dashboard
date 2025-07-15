@@ -26,13 +26,13 @@ This project is a Power BI dashboard designed to visualize and analyze weather f
 # 4. Customize Filters or Locations:
     
     Use the slicers to filter by:
-      Date range
-      City/region
-      Weather conditions
+    Date range
+    City/region
+    Weather conditions
 
-## 🚀 Running the Dashboard
+# 🚀 Running the Dashboard
 
-# Once the .pbix file is open and the data is loaded, the dashboard is ready to explore. Use interactive charts and slicers to:
+Once the .pbix file is open and the data is loaded, the dashboard is ready to explore. Use interactive charts and slicers to:
   
     View daily and weekly forecasts
     Compare temperature, humidity, and wind speed
@@ -69,5 +69,5 @@ This project is a Power BI dashboard designed to visualize and analyze weather f
 # 🔒 Data Privacy
 This dashboard uses public or demo weather data only. If you connect to a live weather API, make sure your API key is kept secure and not shared in public repositories.
 
-#📸 Screenshot
+# 📸 Screenshot
 Add a screenshot of your dashboard here to showcase the visuals.
