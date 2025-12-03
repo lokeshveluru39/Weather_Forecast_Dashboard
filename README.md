@@ -68,6 +68,3 @@ Once the .pbix file is open and the data is loaded, the dashboard is ready to ex
 
 # 🔒 Data Privacy
 This dashboard uses public or demo weather data only. If you connect to a live weather API, make sure your API key is kept secure and not shared in public repositories.
-
-# 📸 Screenshot
-Add a screenshot of your dashboard here to showcase the visuals.
